@@ -30,3 +30,8 @@ Here are the toolkits that allow you to do the above:
     *  Auto-subtitle in live stream: [Unity_live_caption](https://github.com/kwea123/Unity_live_caption)
     *  Encode the subtitle into video: [小丸工具箱](https://maruko.appinn.me/)
 5.  Upload: [YouTube](https://www.youtube.com/)
+
+## 3. Useful unity plugins to allow for more possibilities
+
+1. [uDesktopDuplication](https://github.com/hecomi/uDesktopDuplication) that shows your screen in unity
+2. [Mixamo](https://www.mixamo.com/#/) where you can download many free 3D motions
