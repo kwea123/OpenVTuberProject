@@ -23,7 +23,7 @@ To be a VTuber and take videos, basically everyone follows these steps:
 Here are the toolkits that allow you to do the above:
 
 1.  Create a character: [VRoid Studio](https://vroid.com/studio)
-2.  Synchronize the face: [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace)
+2.  Synchronize the face: [OpenSeeFace](https://github.com/emilianavt/OpenSeeFace) (for Mac Users: [OpenLive3D](https://github.com/OpenLive3D/OpenLive3D.github.io))
 3.  Take video: [OBS Studio](https://obsproject.com/download)
 4.  Post-processing:
     *  Auto-subtitle: [Autosub](https://github.com/kwea123/autosub)
